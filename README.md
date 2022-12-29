@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalho com back-end
 - 🌱 Estudando PostgreSQL
 - 📫 Contate-me: estevaofpequeno@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/estevaonrs">
