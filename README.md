@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Estevão Ferreira
 
-- 🔭 Atualmente trabalho com back-end
-- 🌱 Estudando PostgreSQL
+- 🔭 Desenvolvedor Back-end
 - 📫 Contate-me: estevaofpequeno@gmail.com
 
 <div align="center">
